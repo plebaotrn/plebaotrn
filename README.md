@@ -6,7 +6,10 @@
 🔍 I'm naturally curious and enjoy exploring new ideas and technologies. <br>
 <br>
 <h2>🛠️ Skills & Technologies</h2>
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,nodejs,docker,git,github,sass,mysql,ruby,tailwind,figma&perline=8)](https://skillicons.dev)<br>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,nodejs,docker,git,github,sass,mysql,ruby,tailwind,figma&perline=8)](https://skillicons.dev)
+
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plebaotrn&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
