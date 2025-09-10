@@ -7,7 +7,7 @@
 <br>
 <h2>🛠️ Skills & Technologies</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,nodejs,docker,git,github,sass,mysql,ruby,tailwind,figma&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,nodejs,docker,git,github,sass,mysql,ruby,tailwind,figma,vercel,cs,ts,js,pr&perline=8)](https://skillicons.dev)
 
 <br>
 
