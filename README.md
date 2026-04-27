@@ -1,11 +1,11 @@
-<h2 align="left">Hi There 👋! I'm Bao Tran (Rabbit-chan)</h2>
+<h2 align="left">Hi There! I'm Bao Tran (Rabbit-chan)</h2>
 🎓 I'm currently studying at Swinburne University of Technology, majoring in Software Development. <br>
 💻 I’m passionate about frontend development and UI/UX design. <br>
 🌱 I always put effort into learning and expanding my knowledge. <br>
 🤝 I love helping others and sharing what I know. <br>
 🔍 I'm naturally curious and enjoy exploring new ideas and technologies. <br>
 <br>
-<h2>🛠️ Skills & Technologies</h2>
+<h2>Skills & Technologies</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,docker,git,github,sass,mysql,ruby,tailwind,figma,vercel,cs,ts,js,pr&perline=8)](https://skillicons.dev)
 
