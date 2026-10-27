@@ -15,17 +15,24 @@ FONT = "'Segoe UI', -apple-system, BlinkMacSystemFont, Arial, sans-serif"
 MONO = "ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
 
 
-def fetch_days(user: str, token: str):
-    query = """query($login:String!){user(login:$login){contributionsCollection{
-      contributionCalendar{weeks{contributionDays{date contributionCount}}}}}}"""
+def graphql(query: str, variables: dict, token: str) -> dict:
     req = urllib.request.Request(
         "https://api.github.com/graphql",
-        data=json.dumps({"query": query, "variables": {"login": user}}).encode(),
+        data=json.dumps({"query": query, "variables": variables}).encode(),
         headers={"Authorization": f"bearer {token}", "Content-Type": "application/json"},
     )
     with urllib.request.urlopen(req, timeout=30) as r:
         data = json.load(r)
-    weeks = data["data"]["user"]["contributionsCollection"]["contributionCalendar"]["weeks"]
+    if "errors" in data:
+        raise RuntimeError(data["errors"])
+    return data["data"]
+
+
+def fetch_days(user: str, token: str):
+    query = """query($login:String!){user(login:$login){contributionsCollection{
+      contributionCalendar{weeks{contributionDays{date contributionCount}}}}}}"""
+    data = graphql(query, {"login": user}, token)
+    weeks = data["user"]["contributionsCollection"]["contributionCalendar"]["weeks"]
     days = [d for w in weeks for d in w["contributionDays"]]
     return [(d["date"], d["contributionCount"]) for d in days][-31:]
 
