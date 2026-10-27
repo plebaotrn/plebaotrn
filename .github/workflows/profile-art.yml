@@ -22,12 +22,14 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # a PAT of the profile owner makes private contributions count too
+          github_token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
           outputs: |
             dist/snake.svg?color_snake=#bb9af7&color_dots=#292e42,#3d59a1,#7aa2f7,#7dcfff,#b4f9f8
 
       - name: generate activity.svg (last 31 days)
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
         run: python3 .github/scripts/activity.py "${{ github.repository_owner }}" dist/activity.svg
 
       - name: push art to the output branch

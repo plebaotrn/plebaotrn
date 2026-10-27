@@ -33,7 +33,7 @@
 <img src="./assets/titles/stats.svg" alt="GitHub stats" />
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=plebaotrn&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=24283b&title_color=bb9af7&icon_color=7dcfff&text_color=d5deff&custom_title=Bao%20Tran's%20GitHub%20stats" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=plebaotrn&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=24283b&title_color=bb9af7&icon_color=7dcfff&text_color=d5deff&custom_title=Bao%20Tran's%20GitHub%20stats" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plebaotrn&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=24283b&title_color=bb9af7&text_color=d5deff" alt="Most used languages" />
 </p>
 
