@@ -11,57 +11,22 @@
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-## About me
+<img src="./assets/titles/about.svg" alt="About me" />
 
-```ts
-const tran = {
-  location:     "Melbourne, AU · from Vietnam",
-  studying:     "B.CompSci (Software Development) @ Swinburne",
-  workingAt:    "QA Testing Intern @ Wellmate",
-  focus:        ["frontend", "fullstack", "QA", "UX/UI"],
-  curiousAbout: ["software architecture", "game design"],
-  offline:      ["photography", "fashion", "running"],
-  motto:        "learn it, then share it",
-};
-```
+<img src="./assets/about.svg" width="100%" alt="const tran = { location: Melbourne, AU · from Vietnam; studying: B.CompSci (Software Development) @ Swinburne; workingAt: QA Testing Intern @ Wellmate; focus: frontend, fullstack, QA, UX/UI }" />
 
-## Things I'm building
+<img src="./assets/titles/building.svg" alt="Things I'm building" />
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p>
+<a href="https://github.com/plebaotrn"><img src="./assets/projects/hsrc.svg" width="49%" alt="hsrc-web: bilingual organisation website (Next.js, TypeScript, Tailwind, Three.js, Supabase)" /></a>
+<a href="https://github.com/plebaotrn"><img src="./assets/projects/baki.svg" width="49%" alt="BaKi: cute personal planner with sticky-note tasks and a daily check-in chat" /></a>
+</p>
+<p>
+<a href="https://github.com/plebaotrn/Web-connectmytask"><img src="./assets/projects/connectmytask.svg" width="49%" alt="ConnectMyTask: task-outsourcing marketplace (React, Node.js, MongoDB, Socket.IO, Docker)" /></a>
+<a href="https://github.com/plebaotrn/DuckGame"><img src="./assets/projects/duckgame.svg" width="49%" alt="DuckGame: 2D arcade game in C# and MonoGame" /></a>
+</p>
 
-**hsrc-web** · _private_<br>
-Bilingual organisation website with a 3D hero, i18n routing and a Supabase backend.<br>
-<sub>`Next.js` · `TypeScript` · `Tailwind` · `Three.js` · `Supabase`</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**BaKi** · _in progress_<br>
-A cute personal planner: today's tasks as sticky notes, a study schedule, and a daily check-in chat.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[ConnectMyTask](https://github.com/plebaotrn/Web-connectmytask)** · _team_<br>
-Task-outsourcing marketplace: post jobs, bid, pay through escrow and chat in real time, in English, Lao and Thai.<br>
-<sub>`React` · `Node.js` · `MongoDB` · `Socket.IO` · `Docker`</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**[DuckGame](https://github.com/plebaotrn/DuckGame)** · _public_<br>
-2D arcade game: steer a duck to collect hearts and stars, dodge bombs, and survive day-night level shifts.<br>
-<sub>`C#` · `MonoGame` · `.NET 8`</sub>
-
-</td>
-</tr>
-</table>
-
-## Toolbox
+<img src="./assets/titles/toolbox.svg" alt="Toolbox" />
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="420" alt="Floating web tech stack" />
@@ -76,7 +41,7 @@ Task-outsourcing marketplace: post jobs, bid, pay through escrow and chat in rea
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-## GitHub stats
+<img src="./assets/titles/stats.svg" alt="GitHub stats" />
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=plebaotrn&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=24283b&title_color=bb9af7&icon_color=7dcfff&text_color=d5deff&custom_title=Bao%20Tran's%20GitHub%20stats" alt="GitHub stats" />
@@ -87,11 +52,11 @@ Task-outsourcing marketplace: post jobs, bid, pay through escrow and chat in rea
 <img src="https://streak-stats.demolab.com?user=plebaotrn&theme=tokyonight&hide_border=true&border_radius=12&background=24283b&ring=bb9af7&fire=bb9af7&currStreakLabel=7dcfff&sideLabels=d5deff&dates=a3b3e6&currStreakNum=d5deff&sideNums=d5deff" alt="GitHub streak" />
 </p>
 
-## Contribution activity
+<img src="./assets/titles/activity.svg" alt="Contribution activity" />
 
 <img src="https://raw.githubusercontent.com/plebaotrn/plebaotrn/output/activity.svg" width="100%" alt="Contribution activity graph, last 31 days" />
 
-## Commit trail
+<img src="./assets/titles/trail.svg" alt="Commit trail" />
 
 <img src="https://raw.githubusercontent.com/plebaotrn/plebaotrn/output/snake.svg" width="100%" alt="Snake eating my contribution graph" />
 
@@ -100,7 +65,7 @@ Task-outsourcing marketplace: post jobs, bid, pay through escrow and chat in rea
 > _"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."_
 > — Martin Fowler, _Refactoring_
 
-## Say hi
+<img src="./assets/titles/hi.svg" alt="Say hi" />
 
 <a href="https://plebaotrn.github.io"><img src="https://img.shields.io/badge/portfolio_%E2%86%97-292e42?style=for-the-badge&logo=githubpages&logoColor=bb9af7" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/le-bao-tran-pham-016987325/"><img src="https://img.shields.io/badge/linkedin-292e42?style=for-the-badge&logo=linkedin&logoColor=7dcfff" alt="LinkedIn" /></a>

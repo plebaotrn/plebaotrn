@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="170" viewBox="0 0 410 170" role="img" aria-label="BaKi: A cute personal planner: today&#x27;s tasks as sticky notes, a study schedule, and a daily check-in chat.">
+  <rect x="0.5" y="0.5" width="409" height="169" rx="12" fill="#24283b" stroke="#414868"/>
+  <text x="22" y="38" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="600" fill="#bb9af7">BaKi</text>
+  <text x="388" y="38" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#a3b3e6">in progress</text>
+  <text x="22" y="70" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#b9c6f5">A cute personal planner: today&#x27;s tasks as</text>
+  <text x="22" y="92" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#b9c6f5">sticky notes, a study schedule, and a daily</text>
+  <text x="22" y="114" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#b9c6f5">check-in chat.</text>
+
+</svg>

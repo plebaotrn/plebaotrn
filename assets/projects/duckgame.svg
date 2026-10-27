@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="170" viewBox="0 0 410 170" role="img" aria-label="DuckGame: 2D arcade game: steer a duck to collect hearts and stars, dodge bombs, and survive day-night level shifts.">
+  <rect x="0.5" y="0.5" width="409" height="169" rx="12" fill="#24283b" stroke="#414868"/>
+  <text x="22" y="38" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="600" fill="#bb9af7">DuckGame</text>
+  <text x="388" y="38" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="12" fill="#a3b3e6">public</text>
+  <text x="22" y="70" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#b9c6f5">2D arcade game: steer a duck to collect</text>
+  <text x="22" y="92" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#b9c6f5">hearts and stars, dodge bombs, and survive</text>
+  <text x="22" y="114" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#b9c6f5">day-night level shifts.</text>
+  <text x="22" y="150" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="11" fill="#a3b3e6">C# · MonoGame · .NET 8</text>
+</svg>

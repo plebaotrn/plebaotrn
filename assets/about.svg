@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="328" viewBox="0 0 840 328" role="img" aria-label="About Bao Tran: Melbourne, studying Software Development at Swinburne, QA Testing Intern at Wellmate">
+  <rect x="0.5" y="0.5" width="839" height="327" rx="12" fill="#24283b" stroke="#414868"/>
+  <line x1="0.5" y1="42" x2="839.5" y2="42" stroke="#414868"/>
+  <circle cx="24" cy="21" r="5.5" fill="#f7768e"/>
+  <circle cx="42" cy="21" r="5.5" fill="#e0af68"/>
+  <circle cx="60" cy="21" r="5.5" fill="#9ece6a"/>
+  <text x="80" y="26" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="13" fill="#a3b3e6">tran.ts</text>
+  <text x="24" y="82" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="15" xml:space="preserve"><tspan fill="#bb9af7">const</tspan><tspan fill="#d5deff"> tran = {</tspan></text>
+  <text x="24" y="109" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="15" xml:space="preserve"><tspan fill="#d5deff">  location:     </tspan><tspan fill="#9ece6a">"Melbourne, AU · from Vietnam"</tspan><tspan fill="#d5deff">,</tspan></text>
+  <text x="24" y="136" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="15" xml:space="preserve"><tspan fill="#d5deff">  studying:     </tspan><tspan fill="#9ece6a">"B.CompSci (Software Development) @ Swinburne"</tspan><tspan fill="#d5deff">,</tspan></text>
+  <text x="24" y="163" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="15" xml:space="preserve"><tspan fill="#d5deff">  workingAt:    </tspan><tspan fill="#9ece6a">"QA Testing Intern @ Wellmate"</tspan><tspan fill="#d5deff">,</tspan></text>
+  <text x="24" y="190" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="15" xml:space="preserve"><tspan fill="#d5deff">  focus:        [</tspan><tspan fill="#9ece6a">"frontend"</tspan><tspan fill="#d5deff">, </tspan><tspan fill="#9ece6a">"fullstack"</tspan><tspan fill="#d5deff">, </tspan><tspan fill="#9ece6a">"QA"</tspan><tspan fill="#d5deff">, </tspan><tspan fill="#9ece6a">"UX/UI"</tspan><tspan fill="#d5deff">],</tspan></text>
+  <text x="24" y="217" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="15" xml:space="preserve"><tspan fill="#d5deff">  curiousAbout: [</tspan><tspan fill="#9ece6a">"software architecture"</tspan><tspan fill="#d5deff">, </tspan><tspan fill="#9ece6a">"game design"</tspan><tspan fill="#d5deff">],</tspan></text>
+  <text x="24" y="244" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="15" xml:space="preserve"><tspan fill="#d5deff">  offline:      [</tspan><tspan fill="#9ece6a">"photography"</tspan><tspan fill="#d5deff">, </tspan><tspan fill="#9ece6a">"fashion"</tspan><tspan fill="#d5deff">, </tspan><tspan fill="#9ece6a">"running"</tspan><tspan fill="#d5deff">],</tspan></text>
+  <text x="24" y="271" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="15" xml:space="preserve"><tspan fill="#d5deff">  motto:        </tspan><tspan fill="#9ece6a">"learn it, then share it"</tspan><tspan fill="#d5deff">,</tspan></text>
+  <text x="24" y="298" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Menlo, Consolas, monospace" font-size="15" xml:space="preserve"><tspan fill="#d5deff">};</tspan></text>
+</svg>
