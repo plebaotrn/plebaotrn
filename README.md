@@ -1,18 +1,13 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=bb9af7&height=220&section=header&text=Hi,%20I'm%20Bao%20Tran&fontSize=52&fontColor=1a1b26&fontAlignY=36&desc=a.k.a.%20Rabbit-chan&descSize=20&descAlignY=56" width="100%" alt="Hi, I'm Bao Tran — a.k.a. Rabbit-chan" />
+<img src="./assets/header.svg" width="100%" alt="Hi, I'm Bao Tran — a.k.a. Rabbit-chan" />
 
-<table border="0">
-<tr>
-<td width="75%">
-<a href="https://github.com/plebaotrn">
+<img src="./assets/rabbit.gif" width="130" align="right" alt="Happy rabbit" />
+
+<br>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=BB9AF7&vCenter=true&width=560&lines=Final-year+Software+Development+%40+Swinburne;QA+Testing+Intern+%40+Wellmate;Fullstack+in+progress;UX%2FUI+lover" alt="Typing intro" />
-</a>
-</td>
-<td width="25%" align="center">
-<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Rabit%20Happy.gif" width="140" alt="Happy rabbit" />
-</td>
-</tr>
-</table>
+
+<br clear="right">
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -94,7 +89,7 @@ Task-outsourcing marketplace: post jobs, bid, pay through escrow and chat in rea
 
 ## Contribution activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=plebaotrn&theme=tokyo-night&area=true&hide_border=true&radius=12&bg_color=24283b&color=bb9af7&line=bb9af7&point=7dcfff&title_color=bb9af7&custom_title=Bao%20Tran's%20contribution%20graph" width="100%" alt="Contribution activity graph" />
+<img src="https://raw.githubusercontent.com/plebaotrn/plebaotrn/output/activity.svg" width="100%" alt="Contribution activity graph, last 31 days" />
 
 ## Commit trail
 
@@ -107,7 +102,7 @@ Task-outsourcing marketplace: post jobs, bid, pay through escrow and chat in rea
 
 ## Say hi
 
-<a href="https://plebaotrn.github.io"><img src="https://img.shields.io/badge/portfolio_%E2%86%97-bb9af7?style=for-the-badge&labelColor=bb9af7&logoColor=1a1b26" alt="Portfolio" /></a>
+<a href="https://plebaotrn.github.io"><img src="https://img.shields.io/badge/portfolio_%E2%86%97-292e42?style=for-the-badge&logo=githubpages&logoColor=bb9af7" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/le-bao-tran-pham-016987325/"><img src="https://img.shields.io/badge/linkedin-292e42?style=for-the-badge&logo=linkedin&logoColor=7dcfff" alt="LinkedIn" /></a>
 <a href="mailto:phamtran2082005@gmail.com"><img src="https://img.shields.io/badge/email-292e42?style=for-the-badge&logo=gmail&logoColor=7dcfff" alt="Email" /></a>
 <a href="https://discordapp.com/users/plebaotrn"><img src="https://img.shields.io/badge/discord-292e42?style=for-the-badge&logo=discord&logoColor=7dcfff" alt="Discord" /></a>
@@ -115,4 +110,4 @@ Task-outsourcing marketplace: post jobs, bid, pay through escrow and chat in rea
 <sub>`// open to internships & grad roles in frontend, fullstack and QA`</sub>
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=bb9af7&height=120&section=footer" width="100%" alt="" />
+<img src="./assets/footer.svg" width="100%" alt="" />

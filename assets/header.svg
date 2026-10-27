@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230" role="img" aria-label="Hi, I'm Bao Tran, a.k.a. Rabbit-chan">
+  <style>
+    .t { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
+    .wave { animation: drift 8s ease-in-out infinite alternate; }
+    @keyframes drift { from { transform: translateX(0); } to { transform: translateX(-30px); } }
+  </style>
+  <path class="wave" d="M-40 0 H940 V172 C840 226 700 230 560 192 C420 154 290 144 160 180 C90 200 20 208 -40 204 Z" fill="#7aa2f7" fill-opacity="0.55"/>
+  <path d="M0 0 H900 V150 C780 205 650 210 520 170 C390 130 260 120 150 160 C90 182 40 190 0 185 Z" fill="#bb9af7"/>
+  <text class="t" x="48" y="96" font-size="56" font-weight="700" letter-spacing="-1" fill="#1a1b26">Hi, I'm Bao Tran</text>
+  <text class="t" x="50" y="132" font-size="20" font-weight="600" fill="#2a2346">a.k.a. Rabbit-chan</text>
+</svg>
