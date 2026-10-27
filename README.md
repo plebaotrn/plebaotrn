@@ -15,17 +15,6 @@
 
 <img src="./assets/about.svg" width="100%" alt="const tran = { location: Melbourne, AU · from Vietnam; studying: B.CompSci (Software Development) @ Swinburne; workingAt: QA Testing Intern @ Wellmate; focus: frontend, fullstack, QA, UX/UI }" />
 
-<img src="./assets/titles/building.svg" alt="Things I'm building" />
-
-<p>
-<a href="https://github.com/plebaotrn"><img src="./assets/projects/hsrc.svg" width="49%" alt="hsrc-web: bilingual organisation website (Next.js, TypeScript, Tailwind, Three.js, Supabase)" /></a>
-<a href="https://github.com/plebaotrn"><img src="./assets/projects/baki.svg" width="49%" alt="BaKi: cute personal planner with sticky-note tasks and a daily check-in chat" /></a>
-</p>
-<p>
-<a href="https://github.com/plebaotrn/Web-connectmytask"><img src="./assets/projects/connectmytask.svg" width="49%" alt="ConnectMyTask: task-outsourcing marketplace (React, Node.js, MongoDB, Socket.IO, Docker)" /></a>
-<a href="https://github.com/plebaotrn/DuckGame"><img src="./assets/projects/duckgame.svg" width="49%" alt="DuckGame: 2D arcade game in C# and MonoGame" /></a>
-</p>
-
 <img src="./assets/titles/toolbox.svg" alt="Toolbox" />
 
 <p align="center">
