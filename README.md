@@ -37,10 +37,6 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plebaotrn&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=24283b&title_color=bb9af7&text_color=d5deff" alt="Most used languages" />
 </p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=plebaotrn&theme=tokyonight&hide_border=true&border_radius=12&background=24283b&ring=bb9af7&fire=bb9af7&currStreakLabel=7dcfff&sideLabels=d5deff&dates=a3b3e6&currStreakNum=d5deff&sideNums=d5deff" alt="GitHub streak" />
-</p>
-
 <img src="./assets/titles/activity.svg" alt="Contribution activity" />
 
 <img src="https://raw.githubusercontent.com/plebaotrn/plebaotrn/output/activity.svg" width="100%" alt="Contribution activity graph, last 31 days" />
