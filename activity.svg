@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="260" viewBox="0 0 840 260" role="img" aria-label="Bao Tran's contribution graph">
+<rect width="840" height="260" rx="12" fill="#24283b"/>
+<text x="24" y="38" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Arial, sans-serif" font-size="17" font-weight="600" fill="#bb9af7">Bao Tran's contribution graph</text>
+<text x="816" y="38" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#a3b3e6">last 31 days · 134 contributions</text>
+<line x1="56" y1="216.0" x2="816" y2="216.0" stroke="#414868"/>
+<text x="46" y="220.0" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#a3b3e6">0</text>
+<line x1="56" y1="178.0" x2="816" y2="178.0" stroke="#292e42"/>
+<text x="46" y="182.0" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#a3b3e6">10</text>
+<line x1="56" y1="140.0" x2="816" y2="140.0" stroke="#292e42"/>
+<text x="46" y="144.0" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#a3b3e6">20</text>
+<line x1="56" y1="102.0" x2="816" y2="102.0" stroke="#292e42"/>
+<text x="46" y="106.0" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#a3b3e6">30</text>
+<line x1="56" y1="64.0" x2="816" y2="64.0" stroke="#292e42"/>
+<text x="46" y="68.0" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#a3b3e6">40</text>
+<path d="M56.0 204.6 L81.3 216.0 L106.7 216.0 L132.0 216.0 L157.3 181.8 L182.7 193.2 L208.0 174.2 L233.3 200.8 L258.7 216.0 L284.0 212.2 L309.3 216.0 L334.7 216.0 L360.0 208.4 L385.3 181.8 L410.7 208.4 L436.0 208.4 L461.3 216.0 L486.7 204.6 L512.0 200.8 L537.3 162.8 L562.7 208.4 L588.0 189.4 L613.3 136.2 L638.7 197.0 L664.0 162.8 L689.3 208.4 L714.7 166.6 L740.0 216.0 L765.3 216.0 L790.7 216.0 L816.0 216.0 L816.0 216 L56.0 216 Z" fill="#bb9af7" fill-opacity="0.18"/>
+<path d="M56.0 204.6 L81.3 216.0 L106.7 216.0 L132.0 216.0 L157.3 181.8 L182.7 193.2 L208.0 174.2 L233.3 200.8 L258.7 216.0 L284.0 212.2 L309.3 216.0 L334.7 216.0 L360.0 208.4 L385.3 181.8 L410.7 208.4 L436.0 208.4 L461.3 216.0 L486.7 204.6 L512.0 200.8 L537.3 162.8 L562.7 208.4 L588.0 189.4 L613.3 136.2 L638.7 197.0 L664.0 162.8 L689.3 208.4 L714.7 166.6 L740.0 216.0 L765.3 216.0 L790.7 216.0 L816.0 216.0" fill="none" stroke="#bb9af7" stroke-width="2.5" stroke-linejoin="round"/>
+<circle cx="613.3" cy="136.2" r="4" fill="#7dcfff"/>
+<text x="56.0" y="244" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#a3b3e6">10/01</text>
+<text x="436.0" y="244" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#a3b3e6">10/16</text>
+<text x="816.0" y="244" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#a3b3e6">10/31</text>
+</svg>
